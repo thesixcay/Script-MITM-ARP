@@ -1,8 +1,5 @@
 # 🕵️‍♂️ ARP MITM Tool – Documentación Técnica
 
-**Nombre:** Osvaldo Alejandro Solano Gonzalez  
-**Matrícula:** 2024-2361  
-
 ---
 
 ## 🎯 Objetivo del Script
