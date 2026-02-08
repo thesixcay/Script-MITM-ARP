@@ -1,7 +1,3 @@
-# 🕵️‍♂️ ARP MITM Tool – Documentación Técnica
-
----
-
 ## 🎯 Objetivo del Script
 
 Este script realiza un ataque **Man-in-the-Middle (MITM)** mediante **envenenamiento ARP** en una red local, permitiendo la interceptación del tráfico entre un **host objetivo** y el **gateway**.
