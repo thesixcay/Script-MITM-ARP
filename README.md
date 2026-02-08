@@ -17,9 +17,6 @@ El desarrollo y uso de esta herramienta está destinado **exclusivamente a fines
 <img width="1165" height="442" alt="image" src="https://github.com/user-attachments/assets/a5e9027b-6787-49c6-ae88-cefd52651673" />
 
 
-En esta sección se debe mostrar la ejecución del script desde la máquina atacante (Kali Linux).
-
-
 ---
 
 ## 🧾 2. Tablas ARP (Antes / Después)
